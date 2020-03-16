@@ -4,7 +4,7 @@ A CSS framework for backend developers
 ## Idea
 It would be really great if we can style/position elements using the symbols   
 For example
-``` css
+```
 -> to position it to right
 <- to position it to left
 || for a card
