@@ -1,0 +1,1 @@
+## This folder contains example sites which are built using SymCSS
