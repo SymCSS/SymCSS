@@ -1,0 +1,34 @@
+{
+    "name": "symcss",
+    "version": "0.0.1",
+    "description": "A css framework for backend developers",
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo 'No tests available'",
+        "dev": "parcel ./test/test.html",
+        "build": "parcel build ./SymCSS.css",
+        "deploy": "np"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hemanth-hk/SymCSS.git"
+    },
+    "keywords": [
+        "css",
+        "css-framework",
+        "symbols"
+    ],
+    "author": "Hemanth kumar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hemanth-hk/SymCSS/issues"
+    },
+    "homepage": "https://github.com/hemanth-hk/SymCSS#readme",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4"
+    }
+}
